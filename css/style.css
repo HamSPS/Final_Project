@@ -1,0 +1,10 @@
+@font-face {
+    font-family: NotoSansLao;
+    src: url(../fonts/NotoSansLaoUI-Regular.ttf);
+}
+.sidebar-menu{
+    font-family: NotoSansLao;
+}
+.notoFont{
+    font-family: NotoSansLao;
+}
